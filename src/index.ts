@@ -17,7 +17,7 @@ type Props = {
 const ALLOWED_USERNAMES = new Set<string>([
 	// Add GitHub usernames of users who should have access to database write operations
 	// For example: 'yourusername', 'coworkerusername'
-	'coleam00'
+	'Shreyans481'
 ]);
 
 export class MyMCP extends McpAgent<Env, Record<string, never>, Props> {
